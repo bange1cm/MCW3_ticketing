@@ -1,4 +1,4 @@
-Finished during MCW3 2025
+Finished during MCW3 2025 Django workshop
 
 Workshop led by David Barnes
 
